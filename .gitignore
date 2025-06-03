@@ -1,0 +1,47 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# macOS and Linux system files
+.DS_Store
+Thumbs.db
+
+# Windows system files
+desktop.ini
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# Python testing
+coverage/
+*.cover
+.hypothesis/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Audio files to ignore (optional if big)
+# Uncomment below if you don't want to upload large assets
+# *.mp3
+# *.wav
+
+# User scores and state
+user_scores.txt
